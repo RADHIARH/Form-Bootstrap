@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.formulaire{
+  width:45%;
+justify-content: center;
+margin-left:25%;
+margin-right:25%;
+margin-top: 100px;
+margin-bottom: 10px;
+border:3px solid white;
+background-color:#023059;;
+}
+.form{
+  margin-top:30px;
+  margin-left: 20px;
+  margin-right:20px;
+  margin-bottom: 10px;
+}
+h3{
+  font-weight: bold;
+  text-align: center;
+  padding-top:15px;
+  color:white
+}
+h6{
+  padding-right:5px
+}
+h6,.form-check,.form-check,.form-label{
+  color:white
+}
+.bt{
+  width:50% !important;
+  margin-left:25%;
+  margin-right:25%;
+  background-color: white;
+  
+}
+.gender{
+  display:flex
+}
